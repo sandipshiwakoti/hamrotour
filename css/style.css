@@ -211,7 +211,7 @@ a {
 .nav-icon {
   display: inline-block;
   font-size: 1.5rem;
-  padding-left: 0.2rem;
+  margin-right: .5rem;
   cursor: pointer;
 }
 
